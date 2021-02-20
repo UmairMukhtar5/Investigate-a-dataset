@@ -1,2 +1,2 @@
 # Investigate a dataset
-In this investigation will examine the sample data from 110527 of patients to answer the question of whether were any characteristics made patients more likely to show up for their appointments. Statistical tests will be done to identify those characteristics and measure their impact.
+For this project, the dataset that I selected was about +100k medical appointments in Brazil that shows whether a patient showed up to his/her appointment or not, as well as multiple other factors that may affect their showing up. I then performed an investigation to answer the question of whether or not there were any characteristics made patients more likely to show up for their appointments. 
